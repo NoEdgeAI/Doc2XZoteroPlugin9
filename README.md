@@ -9,6 +9,8 @@
 - **解析 / 翻译为 Markdown 笔记**：结果保存回论文条目
 - 支持多选 PDF 顺序批量处理
 
+**使用教程**：[Zotero 翻译插件教程：安装、登录、单篇与批量翻译](https://doc2x.noedgeai.com/help/zh-cn/faq/doc2x-zotero-plugin.html) · **插件介绍与下载**：[Doc2X Zotero 翻译插件](https://doc2x.noedgeai.com/zotero-translate/)
+
 ## 安装
 
 1. 在 [Releases](https://github.com/NoEdgeAI/Doc2XZoteroPlugin9/releases/latest) 下载 `doc2x-ai-translate.xpi`（不要解压）。
@@ -26,4 +28,4 @@
 
 ---
 
-**doc2x-ai-translate** translates and parses PDFs in Zotero with Doc2X AI: layout-preserving translation, bilingual output, or Markdown notes. Download `doc2x-ai-translate.xpi` from [Releases](https://github.com/NoEdgeAI/Doc2XZoteroPlugin9/releases/latest) and install it via *Tools → Plugins → ⚙ → Install Plugin From File*. For Zotero 7/8, use [NoEdgeAI/Doc2XZoteroPlugin](https://github.com/NoEdgeAI/Doc2XZoteroPlugin/releases/latest).
+**doc2x-ai-translate** translates and parses PDFs in Zotero with Doc2X AI: layout-preserving translation, bilingual output, or Markdown notes. Download `doc2x-ai-translate.xpi` from [Releases](https://github.com/NoEdgeAI/Doc2XZoteroPlugin9/releases/latest) and install it via *Tools → Plugins → ⚙ → Install Plugin From File*. For Zotero 7/8, use [NoEdgeAI/Doc2XZoteroPlugin](https://github.com/NoEdgeAI/Doc2XZoteroPlugin/releases/latest). Guide: [Zotero translation plugin tutorial](https://doc2x.noedgeai.com/help/en/faq/doc2x-zotero-plugin.html).
